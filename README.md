@@ -21,12 +21,13 @@ Este projeto consolida uma solução end-to-end em Business Intelligence que int
 ## 2. Estrutura do Repositório
 
 ```text
-├── Comercial+Aplicado+ao+PCP.xlsx        # Base de dados operacional e comercial (5.000 registros)
+├── Comercial+Aplicado+ao+PCP.xlsx           # Base de dados operacional e comercial (5.000 registros)
+├── logo_br_site.png                         # Logo usado no projeto
 ├── DashboardsDeIntegracaoComercial&PCP.pbix # Arquivo modelo do Power BI Desktop
 ├── DashboardsDeIntegracaoComercial&PCP.pdf  # Relatório executivo consolidado em PDF
-├── pagina1.png                            # Captura de tela: Visão Geral Comercial (Página 1)
-├── pagina2.png                            # Captura de tela: Eficiência PCP & SLA de Faturamento (Página 2)
-└── README.md                              # Documentação do projeto
+├── pagina1.png                              # Captura de tela: Visão Geral Comercial (Página 1)
+├── pagina2.png                              # Captura de tela: Eficiência PCP & SLA de Faturamento (Página 2)
+└── README.md                                # Documentação do projeto
 ```
 
 ---
